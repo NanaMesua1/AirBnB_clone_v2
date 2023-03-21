@@ -8,9 +8,9 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-| 0: Authors/README File | [AUTHORS](https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS https://github.com/NanaMesua1/AirBnB_clone_v2/blob/master/AUTHORS) | Project authors |
+| 0: Authors/README File | [Original Authors] (https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS) [Original Authors] | [AUTHORS](https://github.com/NanaMesua1/AirBnB_clone_v2/blob/master/AUTHORS) [AUTHORS]| Project authors |
 | 1: Pep8 | N/A | All code is pep8 compliant|
-| 2: Unit Testing | [/tests](https://github.com/justinmajetich/AirBnB_clone/tree/dev/tests https://github.com/NanaMesua1/AirBnB_clone_v2/tree/master/tests)  | All class-defining modules are unittested |
+| 2: Unit Testing | [/tests](https://github.com/justinmajetich/AirBnB_clone/tree/dev/tests)  [/tests]  [/tests](https://github.com/NanaMesua1/AirBnB_clone_v2/tree/master/tests)  [/tests] | All class-defining modules are unittested |
 | 3. Make BaseModel | [/models/base_model.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/base_model.py https://github.com/NanaMesua1/AirBnB_clone_v2/tree/master/models) | Defines a parent class to be inherited by all model classes|
 | 4. Update BaseModel w/ kwargs | [/models/base_model.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/base_model.py) | Add functionality to recreate an instance of a class from a dictionary representation|
 | 5. Create FileStorage class | [/models/engine/file_storage.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/engine/file_storage.py) [/models/_ _init_ _.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/__init__.py) [/models/base_model.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/base_model.py) | Defines a class to manage persistent file storage system|
